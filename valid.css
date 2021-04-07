@@ -1,0 +1,27 @@
+
+.card{
+    margin:auto ;
+    padding: 15px;
+    box-shadow: 0px 0px 2px 2px lightgray;
+    transition: 3s;
+}
+.card:hover{
+    box-shadow: 0px 0px 4px 2px gray;
+}
+.tr{
+    display: flex;
+    margin: 20px;
+}
+.label{
+    margin-right: 30px;
+}
+.check1, .check2 ,.check3,.check4{
+    margin-left: auto;
+}
+h2{
+    text-transform: capitalize;
+    text-align: center;
+    margin-bottom: 50px;
+    padding-bottom: 30px;
+    color: maroon;
+}
